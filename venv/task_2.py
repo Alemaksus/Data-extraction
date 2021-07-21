@@ -17,7 +17,7 @@
 
 # Общий результат можно вывести с помощью dataFrame через Pandas.
 
-from bs4 import BeautifulSoup as Bs, BeautifulSoup
+from bs4 import BeautifulSoup
 import requests
 import lxml
 from fake_headers import Headers
