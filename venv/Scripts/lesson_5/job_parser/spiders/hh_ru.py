@@ -3,7 +3,6 @@ import scrapy
 from scrapy.http import HtmlResponse
 from job_parser.items import JobParserItem
 
-
 class HhRuSpider(scrapy.Spider):
     name = 'hh_ru'
     allowed_domains = ['hh.ru']

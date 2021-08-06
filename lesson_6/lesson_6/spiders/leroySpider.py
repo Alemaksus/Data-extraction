@@ -1,9 +1,9 @@
 import scrapy
 from scrapy.http import HtmlResponse
-from lesson_6.lesson_6.items import LeroyparserItem
+from lesson_6.lesson_6.items import LeroySpyderItem
 from scrapy.loader import ItemLoader
 
-class LeroyspiderSpider(scrapy.Spider):
+class LeroySpider(scrapy.Spider):
     name = 'leroySpider'
     allowed_domains = ['leroymerlin.ru']
     start_urls = ['http://leroymerlin.ru/']
@@ -21,7 +21,7 @@ class LeroyspiderSpider(scrapy.Spider):
         yield response.follow(next_page, callback=self.parse)
 
     def parse_product(self, response: HtmlResponse):
-        loader = ItemLoader(item=LeroyparserItem(), response=response)
+        loader = ItemLoader(item=LeroySpider(), response=response)
 
         loader.add_value('_id', str(response))
         loader.add_xpath('name', "//h1/text()")

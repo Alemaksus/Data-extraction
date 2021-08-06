@@ -50,8 +50,7 @@ def change_price(values):
     values = float(values)
     return values
 
-
-class LeroyparserItem(scrapy.Item):
+class LeroySpyderItem(scrapy.Item):
     _id = scrapy.Field(input_processor=MapCompose(get_id))
     name = scrapy.Field(output_processor=TakeFirst())
     photos = scrapy.Field(input_processor=MapCompose())
