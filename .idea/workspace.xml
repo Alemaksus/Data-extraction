@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df29bccc-6b48-4ab8-aff0-2b9984b5ebcf" name="Default Changelist" comment="Сделал, но возможно не всё.">
+      <change afterPath="$PROJECT_DIR$/instagram/runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/lesson_5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/lesson_5/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/lesson_5/job_parser/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/lesson_5/job_parser/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/lesson_5/job_parser/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/lesson_5/runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_6/lesson_6/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_6/lesson_6/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_6/lesson_6/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_6/lesson_6/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_6/lesson_6/spiders/leroySpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_6/lesson_6/spiders/leroySpider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/lesson_5/job_parser/spiders/hh_ru.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/lesson_5/job_parser/spiders/hh_ru.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lesson_7" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vca6kQQ3xyamiknLbZBKJZsaRG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Coding\Data Science\Data Extraction\Data extraction\lesson_6\lesson_6\spiders" />
+      <recent name="C:\Coding\Data Science\Data Extraction\Data extraction\lesson_6\lesson_6" />
+      <recent name="C:\Coding\Data Science\Data Extraction\Data extraction\venv\Scripts\lesson_5\spiders" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.instagramcom">
+    <configuration name="hh (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data extraction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_6/lesson_6/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_6/lesson_6/spiders/hh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="instagramcom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data extraction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/instagram/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/instagram/spiders/instagramcom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="items" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data extraction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_6/lesson_6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_6/lesson_6/items.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leroySpider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data extraction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_6/lesson_6/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_6/lesson_6/spiders/leroySpider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data extraction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_6/lesson_6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_6/lesson_6/runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.instagramcom" />
+        <item itemvalue="Python.leroySpider" />
+        <item itemvalue="Python.items" />
+        <item itemvalue="Python.runner" />
+        <item itemvalue="Python.hh (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df29bccc-6b48-4ab8-aff0-2b9984b5ebcf" name="Default Changelist" comment="" />
+      <created>1626863660296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626863660296</updated>
+      <workItem from="1626863663707" duration="3915000" />
+      <workItem from="1626888036258" duration="2114000" />
+      <workItem from="1627046252400" duration="3689000" />
+      <workItem from="1627067294358" duration="345000" />
+      <workItem from="1627121091950" duration="110000" />
+      <workItem from="1627375773973" duration="4571000" />
+      <workItem from="1627473934795" duration="771000" />
+      <workItem from="1627540985322" duration="6451000" />
+      <workItem from="1627638015351" duration="1844000" />
+      <workItem from="1627828258744" duration="6844000" />
+      <workItem from="1627889933466" duration="8980000" />
+      <workItem from="1627916872610" duration="2675000" />
+      <workItem from="1627972481167" duration="93000" />
+      <workItem from="1627975433777" duration="7000" />
+      <workItem from="1627986862209" duration="83000" />
+      <workItem from="1627986947947" duration="173000" />
+      <workItem from="1628266109404" duration="830000" />
+      <workItem from="1628275821729" duration="748000" />
+    </task>
+    <task id="LOCAL-00001" summary="Sorry for the late hometask.">
+      <created>1627376288391</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627376288391</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Sorry for the late">
+      <created>1627474091182</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627474091182</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Пока только заготовки для парсеров.&#10;К 6 уроку постараюсь все сделать">
+      <created>1627578061322</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627578061322</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Сделал, но возможно не всё.">
+      <created>1627905658409</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627905658409</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Lesson_8" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sorry for the late hometask." />
+    <MESSAGE value="Sorry for the late" />
+    <MESSAGE value="Пока только заготовки для парсеров.&#10;К 6 уроку постараюсь все сделать" />
+    <MESSAGE value="Сделал, но возможно не всё." />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал, но возможно не всё." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson_6/lesson_6/middlewares.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Data_extraction$hh_ru.coverage" NAME="hh_ru Coverage Results" MODIFIED="1627577697934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts/lesson_5/job_parser/spiders" />
+    <SUITE FILE_PATH="coverage/Data_extraction$hh.coverage" NAME="hh Coverage Results" MODIFIED="1627834113628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Data_extraction$items.coverage" NAME="items Coverage Results" MODIFIED="1627917767775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_6/lesson_6" />
+    <SUITE FILE_PATH="coverage/Data_extraction$leroySpider.coverage" NAME="leroySpider Coverage Results" MODIFIED="1627918189292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_6/lesson_6/spiders" />
+    <SUITE FILE_PATH="coverage/Data_extraction$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1627830772666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts" />
+    <SUITE FILE_PATH="coverage/Data_extraction$scrapetest.coverage" NAME="scrapetest Coverage Results" MODIFIED="1627059362281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Data_extraction$SuperJobSpider.coverage" NAME="SuperJobSpider Coverage Results" MODIFIED="1627895238134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_6/lesson_6/spiders" />
+    <SUITE FILE_PATH="coverage/Data_extraction$task_2.coverage" NAME="task_2 Coverage Results" MODIFIED="1626888244324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Data_extraction$loaders.coverage" NAME="loaders Coverage Results" MODIFIED="1627834062901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_6" />
+    <SUITE FILE_PATH="coverage/Data_extraction$task_4.coverage" NAME="task_4 Coverage Results" MODIFIED="1627577534313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Data_extraction$hh__1_.coverage" NAME="hh (1) Coverage Results" MODIFIED="1627895261159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_6/lesson_6/spiders" />
+    <SUITE FILE_PATH="coverage/Data_extraction$runner.coverage" NAME="runner Coverage Results" MODIFIED="1627897943646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_6/lesson_6" />
+  </component>
+</project>
